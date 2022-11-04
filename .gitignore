@@ -1,0 +1,8 @@
+/public/assets
+/public/storage
+/public/market
+/storage/*.key
+/storage
+/vendor
+/.idea
+/.htaccess
